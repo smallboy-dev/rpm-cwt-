@@ -7,6 +7,7 @@ Verifiable Experience: Enables developers to transition smoothly from tutorials 
 
 Guaranteed Payment: Features a robust dual-mode escrow system (Agency Wallet & Web3 On-Chain) that ensures financial security and trust for both clients and developers.
 
+
 End-to-End Workflow: Offers comprehensive management of the freelance lifecycle from bidding and real-time collaboration (chat/files) to secure project completion.
 
 Data Integrity: Engineered with advanced "Deep Clean" protocols to guarantee system reliability and prevent transparent database corruption.
@@ -18,6 +19,8 @@ Frontend: Flutter
 Backend: Supabase (Auth, Realtime, Storage)
 Blockchain Integration: Web3Dart
 State Management: GetX
+
+![New Project](https://github.com/user-attachments/assets/512e2302-e462-4c66-859b-0afe06f8af06)
 
 ## Getting Started
 
@@ -31,4 +34,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
